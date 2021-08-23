@@ -806,4 +806,4 @@ async def on_message(message): # when client types a message
     
  
 #end of classes        
-client.run('') # discord run client
+client.run('') # discord run client (needs auth code)
