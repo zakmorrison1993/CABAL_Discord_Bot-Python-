@@ -3,6 +3,11 @@
 ![download (1)](https://user-images.githubusercontent.com/84570199/130465749-c76b707b-e608-47fc-9c0b-d0f3d08cea1a.jpg)
 
 This is a amaterur Discord bot called 'Cabal' commissioned by CNC.Community and CNCONLINE
+The bot is missing enviroment variables and some optimisation
+
+
+
+
 
 Current Features:
 
@@ -17,9 +22,9 @@ Bot Features:
 
 Exclusive Features:
 
-- Players online - both cnconline and cnc.community
-- Website links - cnconline and cnc.commumity
-- Favourite music track vote (TibSun) - cnc.community
+- Players online - CNCONLINE and CNC.COMMUNITY
+- Website links - CNCONLINE and CNC.COMMUNITY
+- Favourite music track vote (TibSun) - CNC.COMMUNITY
 - Player Rank Search - cnconline
 
 Anniversary Features (to be removed):
@@ -31,4 +36,4 @@ Anniversary Features (to be removed):
 Planned Features:
 
 - Twitch Streamer Ads
-- auto_match feature - for cnconline
+- auto_match feature - for CNCONLINE
