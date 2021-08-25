@@ -14,6 +14,7 @@ Current Features:
 Bot Features:
 
 - Meme Base
+- Meme features - standalone commands for specific memes
 - CNC Music
 - How To Download (HTD) page links
 - Links to various streamers
