@@ -852,4 +852,4 @@ async def on_message(message): # when client types a message
 
 
 #end of classes        
-client.run('ODYwOTQ2OTA0NjAzMjk1NzU0.YOCpSQ.3WjnzOcGm0Xb4ysqHGtKjyOIxFU') # discord run client
+client.run('') # discord run client
