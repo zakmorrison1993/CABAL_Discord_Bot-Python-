@@ -12,11 +12,9 @@ import time # time
 client = discord.Client()
 
 #driver
-web_driver = webdriver.Firefox()
+web_driver = webdriver.Chrome()
 
 
-#
-#
 #
 #
 #
@@ -96,8 +94,6 @@ def get_data_cnconline(): # collect data from CNC Online
 #
 #
 
-
-
 #Client event join/ready
 @client.event
 async def on_ready():
@@ -147,9 +143,7 @@ async def on_message(message): # when client types a message
 
 # meme trigger - currently using MarkJFoxs Server for meme host
   if message.content.startswith('$meme'): # if user says "$meme"
-     web_driver.get("https://markjfox.net/CNC_MEMES/meme.txt") # get meme total from Mark
-     id = web_driver.find_element_by_tag_name("pre") # find text
-     num = id.text # find the tally on the site
+     num = 342
      text = "https://www.markjfox.net/CNC_MEMES/"+str(random.randint(1,int(num)))+".png" #call link to meme from random range of number extracted from mark's site
      await message.channel.send(text) # discord sends data back
 
@@ -441,7 +435,7 @@ async def on_message(message): # when client types a message
 
 
       # see above
-     web_driver.get("http://www.shatabrick.com/cco/zh/index.php?g=zh&a=sp&name="+str(edit)) 
+     web_driver.get("http://www.shatabrick.com/cco/zh/index.php?g=zh&a=sp&name="+str(edit)) # zero hours code is a precursor
      td = web_driver.find_elements_by_tag_name ("td")
      increment = 10
      liststatsg = []
@@ -734,7 +728,128 @@ async def on_message(message): # when client types a message
   if message.content.startswith('$cnco_support'): # if user says "$cnco_url"
      text = "https://forums.revora.net/forum/2735-c-conline-support/" #event call of previous function
      await message.channel.send(text) # discord sends data back    
+
+#
+#
+#
+#     
+# Edvin
+#
+#
+#
+#
+
+
+  if message.content.startswith('$edvin'): # if user says "$edvin"
+    my_file = open("edvin.txt", "r") #open help text
+    content = my_file.read() # set content to read file
+    my_file.close() # close file
+    print(content) # print contents
+    await message.channel.send(content) # send contents 
+
+  if message.content.startswith('$yastupid'): # if user says "$yastupid"
+    text = "Yeah well fuck you too, Edvin!" #event call of previous function
+    await message.channel.send(text) # discord sends data back   
+
+  if message.content.startswith('$bigtalkfromadroid'): # if user says "$bigtalkfromadroid"
+    text = "BIGTALK4AWALKINGFLESHBAG" #event call of previous function
+    await message.channel.send(text) # discord sends data back
+
+  if message.content.startswith('$watchyourtungdroidiwillhaveyoudismantledinnotime'): # if user says "$watchyourtungdroidiwillhaveyoudismantledinnotime"
+    text = "I will have you upgraded." #event call of previous function
+    await message.channel.send(text) # discord sends data back
+
+  if message.content.startswith('$andiwillhaveyoudowngraded'): # if user says "$andiwillhaveyoudowngraded"
+    text = "WIN93 operates faster than you." #event call of previous function
+    await message.channel.send(text) # discord sends data back
+
+  if message.content.startswith('$windowxpwillrainsupreme'): # if user says "$windowxpwillrainsupreme"
+    text = "can you even afford such a basic machine" #event call of previous function
+    await message.channel.send(text) # discord sends data back
+
+
+#
+#
+#
+#
+# xads
+#
+#
+#
+#
+
+
+  if message.content.startswith('$xads'): # if user says "$windowxpwillrainsupreme"
+    text = "https://www.youtube.com/watch?v=8krW_NGyLjQ" #event call of previous function
+    await message.channel.send(text) # discord sends data back
     
- 
+
+#
+#
+#
+#
+# Zak
+#
+#
+#
+#
+
+  if message.content.startswith('$god'): # if user says "$windowxpwillrainsupreme"
+     text = "https://www.youtube.com/watch?v=j5ogbWjEaLA"
+     await message.channel.send(text) # discord sends data back
+
+
+
+#
+#
+#
+#
+# astolfo-chan
+#
+#
+#
+#
+
+  if message.content.startswith('$astolfo-chan'): # if user says "$windowxpwillrainsupreme"
+     text = "お前はもう死んでいる"
+     await message.channel.send(text) # discord sends data back
+
+
+
+
+
+#
+#
+#
+#
+# cnc-meme/fun stuff - specific meme material
+#
+#
+#
+#
+
+
+   # Nyan
+  if message.content.startswith('$nyan'): # if user says "$nyan"
+     text = " https://www.youtube.com/watch?v=lIJprsggguA"  #nyan cat nod youtube link
+     await message.channel.send(text) # discord sends data back
+
+     # 8ball
+  if message.content.startswith('$8ball'): # if user says "$8ball"
+     respones = ['', 'Not likely', 'It is certain', 'Without a doubt', 'Yes.', 'Outlook good', 'Most Likely', 'NO', 'HA!', "Of course not", "Maybe", "Possibly", "Probably"]
+     text = str(respones[random.randint(1,len(respones))])
+     await message.channel.send(text) # discord sends data back   
+
+#
+#
+#
+#
+# bot-games, games for users to play with the bot
+#
+#
+#
+
+
+
 #end of classes        
-client.run('') # discord run client (needs auth code)
+client.run('ODYwOTQ2OTA0NjAzMjk1NzU0.YOCpSQ.3WjnzOcGm0Xb4ysqHGtKjyOIxFU') # discord run client
