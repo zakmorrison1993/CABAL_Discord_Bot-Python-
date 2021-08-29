@@ -11,8 +11,11 @@ import time # time
 #discord client
 client = discord.Client()
 
+chromeOptions = webdriver.ChromeOptions()
+chromeOptions.add_argument("--no-sandbox")
+chromeOptions.add_argument("--disable-dev-shm-usage")
 #driver
-web_driver = webdriver.Chrome()
+web_driver = webdriver.Chrome(chrome_options = chromeOptions)
 
 
 #
