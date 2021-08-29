@@ -20,6 +20,7 @@ Bot Features:
 - Links to various streamers
 - Mod links
 - Mod - How To Download (HTD) links
+- Games to be played with the bot
 
 Exclusive Features:
 
