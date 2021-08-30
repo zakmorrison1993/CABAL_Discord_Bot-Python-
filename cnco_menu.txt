@@ -1,5 +1,0 @@
-cnc online : 
-
-            $cnco_online - display all active players on cnconline
-            $cnco_url - url to cnconline
-            $cnco_support - url to support forum
