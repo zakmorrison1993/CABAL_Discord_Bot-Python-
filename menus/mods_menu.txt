@@ -1,0 +1,10 @@
+```
+mods : 
+
+            $list_mods - get a list of all cnc mods
+            $download_TI - link to cncnet Twisted Insurrection page
+            $download_MO - link to cncnet Mental Omega page
+            $download_RENX - link to Renegade X page
+            $download_APB - link to A Path Beyond page
+
+```
