@@ -26,7 +26,6 @@ Exclusive Features:
 
 - Players online - CNCONLINE and CNC.COMMUNITY
 - Website links - CNCONLINE and CNC.COMMUNITY
-- Favourite music track vote (TibSun) - CNC.COMMUNITY
 - Player Rank Search - CNCONLINE
 
 Anniversary Features (to be removed):
@@ -34,6 +33,7 @@ Anniversary Features (to be removed):
 - Countdown to date
 - Poster
 - Donations/prize
+- Favourite music track vote
 
 Planned Features:
 
