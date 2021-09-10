@@ -34,8 +34,3 @@ Anniversary Features (to be removed):
 - Poster
 - Donations/prize
 - Favourite music track vote
-
-Planned Features:
-
-- Twitch Streamer Ads
-- auto_match feature - for CNCONLINE
