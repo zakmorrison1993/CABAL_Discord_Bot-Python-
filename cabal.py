@@ -108,24 +108,6 @@ async def on_ready():
   print("Establishing Battlefield Control Standbye!!  .... Online!") # message to state the bot is active
 
 
-#client bot loop functions
-@tasks.loop(minutes=120) # loops every 2 hours
-
-async def mytasks():
-    return # empty function for recurring events
-     
-
-     # OLD Tib Sun Abnniversary event script
-@tasks.loop(hours=24) # loops every 2 hours
-async def anniversary(): # def
-   channel = client.get_channel(862325356731695144) # get channel in Tiberian Sun Anniversary Discord
-   clock = time.time() # establish clock
-   date = time.localtime(clock) # establish date    
-   daystogo = 261 - int(date.tm_yday) # daystogo to event minus the date
-   text = "```"+str(daystogo) + " Days to go till Zero Hour Anniversary!!```" # text
-   await channel.send(text) # discord sends data back
-
-
 #client event on message
 @client.event 
 async def on_message(message): # when client types a message
