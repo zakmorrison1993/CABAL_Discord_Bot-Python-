@@ -30,5 +30,6 @@ Exclusive Features:
 
 How to install:
 
+Add Server key
 Run cabal.py in thonny (Pi)
 
