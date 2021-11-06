@@ -1,0 +1,116 @@
+A-10 Thunderbolt II - https://cnc.fandom.com/wiki/A-10_ground_support_plane_(Tiberian_Dawn)
+
+Advanced Communications Center - https://cnc.fandom.com/wiki/Advanced_communications_center
+
+Advanced Guard Tower - https://cnc.fandom.com/wiki/Advanced_guard_tower_(Tiberian_Dawn)
+
+Advanced Power Plant - https://cnc.fandom.com/wiki/Advanced_power_plant_(Tiberian_Dawn)
+
+Aircraft Carrier - https://cnc.fandom.com/wiki/Aircraft_carrier_(Tiberian_Dawn)
+
+Armored Personnel Carrier - https://cnc.fandom.com/wiki/Armored_Personnel_Carrier_(Tiberian_Dawn)
+
+Barracks - https://cnc.fandom.com/wiki/Barracks_(Tiberian_Dawn)
+
+C-130 Hercules - https://cnc.fandom.com/wiki/C-130_Hercules_(Tiberium)
+
+Communications Center - https://cnc.fandom.com/wiki/Communications_center_(Tiberian_Dawn)
+
+Concrete Wall - https://cnc.fandom.com/wiki/Concrete_wall_(Tiberian_Dawn)
+
+F/A-18C/D Hornet - https://cnc.fandom.com/wiki/F/A-18C/D_Hornet
+
+GDI fighter - https://cnc.fandom.com/wiki/GDI_fighter_(Tiberian_Dawn)
+
+Grenadier - https://cnc.fandom.com/wiki/Grenadier_(Tiberian_Dawn)
+
+Basic Guard tower - https://cnc.fandom.com/wiki/Guard_tower
+
+Gunboat - https://cnc.fandom.com/wiki/Gunboat_(Tiberian_Dawn)
+
+Harvester - https://cnc.fandom.com/wiki/Harvester_(Tiberian_Dawn)
+
+Helipad - https://cnc.fandom.com/wiki/Helipad_(Tiberian_Dawn)
+
+Hospital - https://cnc.fandom.com/wiki/Hospital_(Tiberian_Dawn)
+
+Hovercraft - https://cnc.fandom.com/wiki/Hovercraft_(Tiberian_Dawn)
+
+Humvee - https://cnc.fandom.com/wiki/Humvee_(Tiberian_Dawn)
+
+Ion Cannon - https://cnc.fandom.com/wiki/Ion_Cannon#Command_.26_Conquer
+
+Mammoth Mk. I
+Tiberian Dawn
+Vehicle
+https://cnc.fandom.com/wiki/Mammoth_Mk._I
+
+Mammoth Tank
+Tiberian Dawn
+Vehicle
+https://cnc.fandom.com/wiki/Mammoth_Tank_(Tiberian_Dawn)
+
+Medium Tank
+Tiberian Dawn
+Vehicle
+https://cnc.fandom.com/wiki/Medium_Tank_(Tiberian_Dawn)
+
+Mobile Construction Vehicle
+Tiberian Dawn
+Vehicle
+https://cnc.fandom.com/wiki/Mobile_Construction_Vehicle_(Tiberian_Dawn)
+
+Orca
+Tiberian Dawn
+AirUnit
+https://cnc.fandom.com/wiki/Orca_(Tiberian_Dawn)
+
+Power Plant
+Tiberian Dawn
+Structure
+https://cnc.fandom.com/wiki/Power_plant_(Tiberian_Dawn)
+
+Prison
+Tiberian Dawn
+CampaignAsset
+https://cnc.fandom.com/wiki/Prison_(Tiberian_Dawn)
+
+Repair Facility
+Tiberian Dawn
+Structure
+https://cnc.fandom.com/wiki/Repair_facility
+
+Rocket Launcher
+Tiberian Dawn
+Vehicle
+https://cnc.fandom.com/wiki/Rocket_launcher_(Tiberian_Dawn)
+
+Sandbags
+Tiberium Dawn
+DefenseStructure
+https://cnc.fandom.com/wiki/Sandbags_(Tiberium)
+
+Tech Center
+Tiberian Dawn
+Structure
+https://cnc.fandom.com/wiki/Tech_center_(Tiberian_Dawn)
+
+Tiberium Refinery
+Tiberian Dawn
+Structure
+https://cnc.fandom.com/wiki/Tiberium_refinery_(Tiberian_Dawn)
+
+Tiberium Silo
+Tiberian Dawn
+Structure
+https://cnc.fandom.com/wiki/Tiberium_silo_(Tiberian_Dawn)
+
+UH-60 Blackhawk
+Tiberian Dawn
+CutsceneAsset
+https://cnc.fandom.com/wiki/UH-60_Blackhawk
+
+Weapons Factory
+Tiberian Dawn
+Structure
+https://cnc.fandom.com/wiki/Weapons_factory_(Tiberian_Dawn)

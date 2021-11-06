@@ -1,0 +1,28 @@
+```  
+                   Welcome back, Commander:
+
+    We the CNC.COMMUNITY with GameReplays are hosting a tournament 
+    27 August (Friday): Official Tiberian Sun Anniversary, 14 GMT. 
+
+
+Functions:
+
+             $prize - show tournament details
+             $online - displays active players on CNC Community
+             $meme - display a random meme (from CNC Communtiy)
+             $stream - display links to Twitch and Facebook streams
+             $watch - watch CNC content on youtube
+             $music - random cnc song
+
+             $search [username] - find stats on cnc online
+
+How TO Play CNC:
+             $htp - How to play menu
+Mods:
+             $mods - mods menu
+CNCONLINE:  
+             $cnconline - cnc online help menu 
+utility : 
+             $discord - list of discord servers
+             $website - link to cnc community 
+```
