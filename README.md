@@ -28,9 +28,7 @@ Exclusive Features:
 - Website links - CNCONLINE and CNC.COMMUNITY
 - Player Rank Search - CNCONLINE
 
-Anniversary Features (to be removed):
+How to install:
 
-- Countdown to date
-- Poster
-- Donations/prize
-- Favourite music track vote
+Run cabal.py in thonny (Pi)
+
